@@ -72,4 +72,4 @@ def won?
   end
 end
 
-def 
+def full?
