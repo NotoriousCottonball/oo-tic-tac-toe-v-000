@@ -73,3 +73,4 @@ def won?
 end
 
 def full?
+  @board.all? do 
