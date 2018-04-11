@@ -84,4 +84,4 @@ def over?
   won? || draw?
 end
 
-def
+def winner
