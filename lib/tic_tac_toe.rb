@@ -97,4 +97,4 @@ def play
   if won?
     puts "Congratulations #{winner}!"
   else
-    
+    puts ""
