@@ -16,4 +16,4 @@ WIN_COMBINATIONS = [
   [2,4,6]
 ]
 
-def
+def display_board
