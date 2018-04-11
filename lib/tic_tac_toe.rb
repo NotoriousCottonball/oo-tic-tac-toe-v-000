@@ -17,4 +17,4 @@ WIN_COMBINATIONS = [
 ]
 
 def display_board
-  puts "#"
+  puts " #"
