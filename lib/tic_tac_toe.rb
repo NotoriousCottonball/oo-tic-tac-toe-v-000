@@ -10,4 +10,4 @@ WIN_COMBINATIONS = [
   ]
   
   class TicTacToe
-    
+    def initialize 
