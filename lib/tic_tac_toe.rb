@@ -67,4 +67,5 @@ def current_player
 end
 
 def won?
-  WIN_COMBINATIONS.detect
+  WIN_COMBINATIONS.detect do |win_combo|
+    
