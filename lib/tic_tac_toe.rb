@@ -85,4 +85,5 @@ def over?
 end
 
 def winner
-  
+  if won?
+    @board[won?]
