@@ -59,6 +59,8 @@ def turn_count
       count += 1 
     end
   end
-  
+  count
+end
 
 def current_player
+  
