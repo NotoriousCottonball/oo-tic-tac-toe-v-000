@@ -52,6 +52,8 @@ def turn
   display_board
 end
 
-def 
+def turn_count
+  count = 0 
+  
 
 def current_player
