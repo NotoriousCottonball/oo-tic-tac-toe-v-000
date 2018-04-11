@@ -52,4 +52,4 @@ def turn
   display_board
 end
 
-
+def current_player()
