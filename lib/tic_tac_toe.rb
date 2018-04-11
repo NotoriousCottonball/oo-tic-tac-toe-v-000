@@ -56,6 +56,7 @@ def turn_count
   count = 0 
   @board.each do |index|
     if index == "X" || index == "O"
-      
+      count += 1 
+    
 
 def current_player
