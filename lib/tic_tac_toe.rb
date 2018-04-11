@@ -47,4 +47,4 @@ def turn
   if valid_move?(index)
     token = current_player
     move(index, token)
-    
+  else turn
