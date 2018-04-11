@@ -41,5 +41,6 @@ def valid_move?(index)
 end
 
 def turn 
+  puts "Please enter 1-9:"
   
 
