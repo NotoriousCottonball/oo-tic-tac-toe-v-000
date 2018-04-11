@@ -73,4 +73,4 @@ def won?
 end
 
 def full?
-  @board.all?
+  @board.all?{
